@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Outputs
+outputs/
+*.csv
+*.mp4
+
+# Dataset
+img1/
+MOT17/
